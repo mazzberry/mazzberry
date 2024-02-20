@@ -32,6 +32,9 @@ Hey there, I'm Mohammadreza- aka Mazz </h3>
     <a href="https://discordapp.com/users/762099372069879848/"><img
             alt="Discord" title="Discord"
             src="https://skillicons.dev/icons?i=discord" /></a>
+            <a href="https://www.linkedin.com/in/mohammadreza-hosseini-06a337263/"><img
+            alt="Linkedin" title="Linked"
+            src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://www.instagram.com/tumpy_guy/"><img alt="instagram"
             title="Follow" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
