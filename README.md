@@ -6,8 +6,7 @@
 ## 📖 About me
 
 - 💻 I'm a Back-end Developer
-- 🎨 I'm a quike self-learner in programming field
-- 📱 I make website using MERN technology etc
+- 🎨 I'm a quick self-learner in programming field
 - 🌐 You can see some of my projects on [my portfolio] in my Github
 - 📺 I make development and tech tutorials on
 [YouTube](https://www.youtube.com/@mazzberry)
@@ -87,19 +86,14 @@
             </td>
         </tr>
         <tr>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code"
-                        height="28px"
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code"height="28px"
                         src="https://skillicons.dev/icons?i=vscode" /></a></td>
-
             <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
                         src="https://skillicons.dev/icons?i=mysql" /></a></td>
-
             <td><a href="#"><img alt="GO" title="GO" height="28px"
                         src="https://skillicons.dev/icons?i=go" /></a></td>
-
             <td><a href="#"><img alt="PhotoShop" title="PhotoShop" height="28px"
                         src="https://skillicons.dev/icons?i=ps" /></a></td>
-
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://skillicons.dev/icons?i=github" /></a>
             </td>
