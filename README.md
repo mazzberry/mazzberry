@@ -109,7 +109,7 @@
     <br />
     <a href="https://github.com/mazzberry/github-readme-stats"><img
             alt="Mohammadreza's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=mazzberry&show_icons=true&count_private=true&hide=" /></a>
+            src="https://github-readme-stats.vercel.app/api?username=mazzberry&theme=transparent&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details>
