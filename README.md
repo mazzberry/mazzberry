@@ -9,7 +9,7 @@
 - 🎨 I'm a quick self-learner in programming field
 - 🌐 You can see some of my projects on [my portfolio] in my Github
 - 📺 I make development and tech tutorials on
-[YouTube](https://www.youtube.com/@mazzberry)
+[YouTube](https://www.youtube.com/#)
 
 ## 🔥 My contribution streak
 
