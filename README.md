@@ -117,7 +117,7 @@
     <br />
     <a href="https://github.com/mazzberry/github-readme-stats"><img
             alt="mazzberry's Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzberry&theme=dracula&langs_count=10&layout=compact#" /></a>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzberry&theme=radical&langs_count=10&layout=compact#" /></a>
     <br />
     <b>Note:</b> This chart is only a metric of which languages my public code
     on GitHub consists of and does not reflect my experience or skill level.
