@@ -16,7 +16,7 @@
 <p align="center">
     <a href="https://github.com/mazzberry/github-readme-streak-stats">
         <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=mazzberry#version3" />
+            src="https://github-readme-streak-stats.herokuapp.com/?user=mazzberry&theme=transparent#version3" />
     </a>
 </p>
 
