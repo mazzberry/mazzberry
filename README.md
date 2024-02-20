@@ -28,7 +28,7 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-    <a href="https://mich.ir"><img src="https://skillicons.dev/icons?i=gcp"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=gcp"></a>
     <a href="https://discordapp.com/users/762099372069879848/"><img
             alt="Discord" title="Discord"
             src="https://skillicons.dev/icons?i=discord" /></a>
@@ -49,7 +49,7 @@
     <tbody>
         <tr>
             <td><a
-                    href="https://github.com/mazzberry/Django-project-Bookstore"><b>mich-gpt</b></a></td>
+                    href="https://github.com/mazzberry/Django-project-Bookstore"><b>Bookstore</b></a></td>
             <td><img alt="Stars"
                     src="https://img.shields.io/github/stars/mazzberry/Django-project-Bookstore?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Forks"
@@ -86,17 +86,20 @@
                         src="https://skillicons.dev/icons?i=linux" /></a>
             </td>
         </tr>
-
         <tr>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code"
                         height="28px"
                         src="https://skillicons.dev/icons?i=vscode" /></a></td>
+
             <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
                         src="https://skillicons.dev/icons?i=mysql" /></a></td>
+
             <td><a href="#"><img alt="GO" title="GO" height="28px"
                         src="https://skillicons.dev/icons?i=go" /></a></td>
+
             <td><a href="#"><img alt="PhotoShop" title="PhotoShop" height="28px"
                         src="https://skillicons.dev/icons?i=ps" /></a></td>
+
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://skillicons.dev/icons?i=github" /></a>
             </td>
