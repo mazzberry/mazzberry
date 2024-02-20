@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto"
-        src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+        src="https://cdn.discordapp.com/attachments/762721812869939201/1209583775143567430/89.-Software_1.png" height="175px" /></a>
 
 <h3 align="center">Hey there, I'm Mohammadreza- aka Mazz </h3>
 
