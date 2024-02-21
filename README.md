@@ -2,7 +2,7 @@
         src="https://cdn.discordapp.com/attachments/762721812869939201/1209583775143567430/89.-Software_1.png?ex=65e773ac&is=65d4feac&hm=b703950b11571dd9bcb8bf0e81ff8f2647cdf151d666b1250625351400456e82&" height="175px"> </a></div>
         
 <h3 align="center"> 
-Hey there, I'm Mohammadreza- aka Mazz </h3>
+Hey there, I'm Mohammadreza - aka Mazz </h3>
 
 ## 📖 About me
 
