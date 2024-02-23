@@ -25,7 +25,7 @@ Hey there, I'm Mohammadreza - aka Mazz </h3>
         href="https://github.com/mazzberry?tab=repositories">my repos</a>! ⭐
     Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+## 🙋‍♂️ Wanna Get in touch?:
 
 <p align="left">
     <a href="#"><img src="https://skillicons.dev/icons?i=gcp"></a>
