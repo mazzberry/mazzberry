@@ -6,10 +6,10 @@ Hey there, I'm Mohammadreza - aka Mazz </h3>
 
 ## 📖 About me
 
-- 💻 I'm a Back-end Developer
-- 🎨 I'm a quick self-learner in programming field
+- 💻 I'm Back-end Developer
+- 🎨 also a quick self-learner in programming field
 - 🌐 You can see some of my projects on [my portfolio] in my Github
-- 📺 I make development and tech tutorials on
+- 📺 I make tech tutorials on
 [YouTube](https://www.youtube.com/#)
 
 ## 🔥 My contribution streak
