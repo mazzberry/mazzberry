@@ -94,7 +94,7 @@ Hey there, I'm Mohammadreza - aka Mazz </h3>
                         src="https://skillicons.dev/icons?i=mysql" /></a></td>
             <td><a href="#"><img alt="GO" title="GO" height="28px"
                         src="https://skillicons.dev/icons?i=go" /></a></td>
-            <td><a href="#"><img alt="PhotoShop" title="PhotoShop" height="28px"
+            <td><a href="#"><img alt="PhotoShop" title="Gin" height="28px"
                         src="https://skillicons.dev/icons?i=ps" /></a></td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://skillicons.dev/icons?i=github" /></a>
