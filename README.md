@@ -5,11 +5,11 @@ Hey there, I'm Mohammadreza - aka Mazz </h3>
 
 ## 📖 About me
 
-👋 Hi, I’m Mohammadreza Hosseini — a Back-end Developer at Kevock.co<bn>
-💻 I specialize in Golang (with Gin), Python (with Django), and Linux-based development<bn>
-🚀 I love building APIs and contributing to open source projects<bn>
-🤓 I’m driven by solving new challenges and creating software that lasts beyond me<bn>
-🎉 Always excited to meet new folks at tech festivals and expand my network<bn>
+👋 Hi, I’m Mohammadreza Hosseini — a Back-end Developer at Kevock.co  <bn>
+💻 I specialize in Golang (with Gin), Python (with Django), and Linux-based development  <bn>
+🚀 I love building APIs and contributing to open source projects  <bn>
+🤓 I’m driven by solving new challenges and creating software that lasts beyond me  <bn>
+🎉 Always excited to meet new folks at tech festivals and expand my network  <bn>
 
 Let’s connect and build something great together!
 
