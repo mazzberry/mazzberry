@@ -1,7 +1,7 @@
 
         
 
-[Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png) <br>
+![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png) <br>
 <h3 align="center"> 
 Hey there, I'm Mohammadreza - aka Mazz </h3>
 
