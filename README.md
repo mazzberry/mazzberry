@@ -36,19 +36,16 @@ Let’s connect and build something great together!
         href="https://github.com/mazzberry?tab=repositories">my repos</a>! ⭐
     Stars are appreciated!</h3>
 
-## 🙋‍♂️ Wanna Get in touch?:
+## 🙋‍♂️ Wanna get in touch?:
 
-<p align="left">
-    <a href="#"><img src="https://skillicons.dev/icons?i=gcp"></a>
-    <a href="https://discordapp.com/users/762099372069879848/"><img
-            alt="Discord" title="Discord"
-            src="https://skillicons.dev/icons?i=discord" /></a>
-            <a href="https://www.linkedin.com/in/mohammadreza-hosseini-06a337263/"><img
-            alt="Linkedin" title="Linked"
-            src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href="https://www.instagram.com/Mazz_hosseini/"><img alt="instagram"
-            title="Follow" src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+
 
 ## 📘 My top open source projects
 
