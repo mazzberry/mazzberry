@@ -36,9 +36,6 @@ Hey there, I'm Mohammadreza - aka Mazz <br>
 
 Let’s connect and build something great together!
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -47,6 +44,9 @@ Let’s connect and build something great together!
             src="https://github-readme-streak-stats.herokuapp.com/?user=mazzberry&theme=transparent&#version3" />
     </a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
         
 ## 🏆 GitHub Trophies
 
