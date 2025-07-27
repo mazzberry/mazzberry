@@ -3,15 +3,6 @@
 ![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png) <br>
 <h3 align="center"> 
 Hey there, I'm Mohammadreza - aka Mazz <br> 
-        
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mazzberry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- </h3>
 
 ## 📖 About me
 
@@ -23,6 +14,9 @@ Hey there, I'm Mohammadreza - aka Mazz <br>
 
 Let’s connect and build something great together!
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -31,6 +25,13 @@ Let’s connect and build something great together!
             src="https://github-readme-streak-stats.herokuapp.com/?user=mazzberry&theme=transparent&#version3" />
     </a>
 </p>
+        
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mazzberry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</h3>
+
 
 <h3 align="center">⬇ Scroll down to see <a
         href="https://github.com/mazzberry?tab=repositories">my repos</a>! ⭐
@@ -77,43 +78,25 @@ Let’s connect and build something great together!
 
 ## 👨‍💻 Languages and Tools:
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://skillicons.dev/icons?i=python" /></a>
-            </td>
-            <td><a href="#"><img alt="Django" title="Django" height="28px"
-                        src="https://skillicons.dev/icons?i=django" /></a>
-            </td>
-            <td><a href="#"><img alt="Docker" title="Docker" height="28px"
-                        src="https://skillicons.dev/icons?i=docker" /></a>
-            </td>
-            <td><a href="#"><img alt="Postgres" title="Postgres" height="28px"
-                        src="https://skillicons.dev/icons?i=postgres" /></a>
-            </td>
-            <td><a href="#"><img alt="Linux kernel" title="Linux kernel"
-                        height="28px"
-                        src="https://skillicons.dev/icons?i=linux" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code"height="28px"
-                        src="https://skillicons.dev/icons?i=vscode" /></a></td>
-            <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
-                        src="https://skillicons.dev/icons?i=mysql" /></a></td>
-            <td><a href="#"><img alt="GO" title="GO" height="28px"
-                        src="https://skillicons.dev/icons?i=go" /></a></td>
-            <td><a href="#"><img alt="PhotoShop" title="Gin" height="28px"
-                        src="https://skillicons.dev/icons?i=ps" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://skillicons.dev/icons?i=github" /></a>
-            </td>
-        </tr>
-    </tbody>
-
-</table>
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
 ## 📈 Github Stats
 
 <details>
