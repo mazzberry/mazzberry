@@ -1,109 +1,27 @@
-        
+# 💫 About Me:
+👋 Hi, I’m Mohammadreza Hosseini — a Back-end Developer at Kevock.co <br>💻 I specialize in Golang (with Gin), Python (with Django), and Linux-based development  <br>🚀 I love building APIs and contributing to open source projects  <br>🤓 I’m driven by solving new challenges and creating software that lasts beyond me  <br>🎉 Always excited to meet new folks at tech festivals and expand my network 
 
-![Tech Lover](https://github.com/BEPb/BEPb/blob/main/src/header_.png) <br>
-<h3 align="center"> 
-Hey there, I'm Mohammadreza - aka Mazz </h3>
 
-## 📖 About me
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/762099372069879848/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadreza-hosseini-06a337263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:h.mohammadreza736@gmail.com) 
 
-👋 Hi, I’m Mohammadreza Hosseini — a Back-end Developer at Kevock.co  <br>
-💻 I specialize in Golang (with Gin), Python (with Django), and Linux-based development  <br>
-🚀 I love building APIs and contributing to open source projects  <br>
-🤓 I’m driven by solving new challenges and creating software that lasts beyond me  <br>
-🎉 Always excited to meet new folks at tech festivals and expand my network  <br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mazzberry&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mazzberry&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzberry&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Let’s connect and build something great together!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mazzberry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔥 My contribution streak
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-    <a href="https://github.com/mazzberry/github-readme-streak-stats">
-        <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=mazzberry&theme=transparent&#version3" />
-    </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mazzberry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="center">⬇ Scroll down to see <a
-        href="https://github.com/mazzberry?tab=repositories">my repos</a>! ⭐
-    Stars are appreciated!</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=mazzberry&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🙋‍♂️ Wanna Get in touch?:
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
-
-## 📘 My top open source projects
-
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>📘 Project</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>🤝 Forks</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a
-                    href="https://github.com/mazzberry/Django-project-Bookstore"><b>Bookstore</b></a></td>
-            <td><img alt="Stars"
-                    src="https://img.shields.io/github/stars/mazzberry/Django-project-Bookstore?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks"
-                    src="https://img.shields.io/github/forks/mazzberry/Django-project-Bookstore?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-    </tbody>
-</table>
-
-<p align="left">
-    <a href="https://github.com/mazzberry?tab=repositories"><img alt="Portfolio"
-            title="Portfolio"
-            src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white" /></a>
-</p>
-
-## 👨‍💻 Languages and Tools:
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
-
-## 📈 Github Stats
-
-<details>
-    <summary>📊 GitHub Profile Stats</summary>
-    <br />
-    <a href="https://github.com/mazzberry/github-readme-stats"><img
-            alt="Mohammadreza's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=mazzberry&theme=transparent&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details>
-    <summary>💻 Most used languages</summary>
-    <br />
-    <a href="https://github.com/mazzberry/github-readme-stats"><img
-            alt="mazzberry's Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzberry&theme=transparent&langs_count=10&layout=compact#" /></a>
-    <br />
-    <b>Note:</b> This chart is only a metric of which languages my public code
-    on GitHub consists of and does not reflect my experience or skill level.
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
